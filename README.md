@@ -5,8 +5,8 @@ This is a repository providing daily work prompt templates for developers or non
 
 ## Quick Start
 1. Copy the content of the prompt file.
-2. In Cursor, use the shortcut Command + K to open the editor and paste the content.
-3. Mention the relevant files you want to refactor in the editor (including test files).
+2. In Cursor, use the shortcut **Command + K** to open the **Composer** and paste the content.
+3. @ the relevant files you want to refactor in the **Composer** (including test files).
 4. Fine-tune the results after Cursor completes the refactoring.
 
 ## How to Customize Prompts
