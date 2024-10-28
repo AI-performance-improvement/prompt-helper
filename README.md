@@ -1,5 +1,7 @@
 # prompt-helper
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/34b0240f-b9e1-42c8-a2f3-73700b9c33a9/deploy-status)](https://app.netlify.com/sites/aigo/deploys)
+
 ## Introduction
 This is a repository providing daily work prompt templates for developers or non-developers.
 
